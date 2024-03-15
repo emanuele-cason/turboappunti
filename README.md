@@ -8,6 +8,12 @@ Licenza e termini di utilizzo:
  - Se individui errori, puoi aprire una [Issue](https://github.com/emanuele-cason/Turboappunti/issues), in modo che siano noti a tuttə.
  - NON PUOI RIVENDERE QUESTI APPUNTI (TI VENGO A PRENDERE A CASA!)
 
-[TURBODOWNLOAD](https://raw.githubusercontent.com/emanuele-cason/turboappunti/branch/main/turboappunti.pdf)
+<div align="center">
+    <!-- Latest Release -->
+    <a href="https://github.com/emanuele-cason/turboappunti/raw/main/turboappunti.pdf?download=">
+      <img alt="Download"
+      src="https://img.shields.io/badge/TURBO-DOWNLOAD-blue">
+    </a>
+</div>
 
 Se ti sono stati/pensi ti saranno utili, e non hai già contribuito, puoi offrirmi un caffé (o uno spritz) come forma di apprezzamento: https://www.paypal.me/emanuelecason
