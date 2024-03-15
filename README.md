@@ -6,7 +6,7 @@ Licenza e termini di utilizzo:
  - Puoi condividerli con chi vuoi.
  - Non mi assumo nessuna responsabilità in caso di errori, omissioni e/o imprecisioni.
  - Se individui errori, puoi aprire una [Issue](https://github.com/emanuele-cason/Turboappunti/issues), in modo che siano noti a tuttə.
- - NON PUOI RIVENDERE QUESTI APPUNTI (TI VENGO A PRENDERE A CASA!)
+ - NON PUOI RIVENDERE QUESTI APPUNTI
 <br/>
 <div align="center">
     <!-- Latest Release -->
