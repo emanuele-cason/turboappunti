@@ -16,5 +16,3 @@ Licenza e termini di utilizzo:
       style="width: auto; height: 50px;">
     </a>
 </div>
-<br/>
-Se ti sono stati/pensi ti saranno utili, e non hai già contribuito, puoi offrirmi un caffé (o uno spritz) come forma di apprezzamento: https://www.paypal.me/emanuelecason
