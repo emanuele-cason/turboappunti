@@ -12,7 +12,7 @@ Licenza e termini di utilizzo:
     <!-- Latest Release -->
     <a href="https://github.com/emanuele-cason/turboappunti/raw/main/turboappunti.pdf?download=">
       <img alt="Download"
-      src="https://img.shields.io/badge/TURBO-DOWNLOAD-blue"
+      src="https://img.shields.io/badge/TURBO-DOWNLOAD-orange"
       style="width: auto; height: 50px;">
     </a>
 </div>
